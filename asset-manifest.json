@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Amine-Hmi/MyAnimeList/static/css/main.2ac089f9.chunk.css",
+    "main.js": "/Amine-Hmi/MyAnimeList/static/js/main.546af488.chunk.js",
+    "main.js.map": "/Amine-Hmi/MyAnimeList/static/js/main.546af488.chunk.js.map",
+    "runtime-main.js": "/Amine-Hmi/MyAnimeList/static/js/runtime-main.23aba189.js",
+    "runtime-main.js.map": "/Amine-Hmi/MyAnimeList/static/js/runtime-main.23aba189.js.map",
+    "static/js/2.b8144d84.chunk.js": "/Amine-Hmi/MyAnimeList/static/js/2.b8144d84.chunk.js",
+    "static/js/2.b8144d84.chunk.js.map": "/Amine-Hmi/MyAnimeList/static/js/2.b8144d84.chunk.js.map",
+    "index.html": "/Amine-Hmi/MyAnimeList/index.html",
+    "precache-manifest.d68e5ae41fe192363e7f65ea2da0720c.js": "/Amine-Hmi/MyAnimeList/precache-manifest.d68e5ae41fe192363e7f65ea2da0720c.js",
+    "service-worker.js": "/Amine-Hmi/MyAnimeList/service-worker.js",
+    "static/css/main.2ac089f9.chunk.css.map": "/Amine-Hmi/MyAnimeList/static/css/main.2ac089f9.chunk.css.map",
+    "static/js/2.b8144d84.chunk.js.LICENSE.txt": "/Amine-Hmi/MyAnimeList/static/js/2.b8144d84.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Amine-Hmi/MyAnimeList/static/media/bg.fffa31e7.jpg",
+    "static/media/default_cover.png": "/Amine-Hmi/MyAnimeList/static/media/default_cover.22e5f56b.png",
+    "static/media/logo.png": "/Amine-Hmi/MyAnimeList/static/media/logo.2fd48a92.png",
+    "static/media/missing.jpg": "/Amine-Hmi/MyAnimeList/static/media/missing.e599c875.jpg",
+    "static/media/spinner3.gif": "/Amine-Hmi/MyAnimeList/static/media/spinner3.cf806952.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23aba189.js",
+    "static/js/2.b8144d84.chunk.js",
+    "static/css/main.2ac089f9.chunk.css",
+    "static/js/main.546af488.chunk.js"
+  ]
+}
