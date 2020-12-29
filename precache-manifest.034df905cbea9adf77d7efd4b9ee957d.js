@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13602e6f21451e4be5d4099dea0d3de2",
+    "revision": "8f129bfc4470979335a9a60ca9de7039",
     "url": "/Amine-Hmi/MyAnimeList/index.html"
   },
   {
-    "revision": "4dfe99a610d34d5b0149",
+    "revision": "4c368b7f389509a6f779",
     "url": "/Amine-Hmi/MyAnimeList/static/css/main.2ac089f9.chunk.css"
   },
   {
-    "revision": "3c04213fb9df68d7bfaa",
-    "url": "/Amine-Hmi/MyAnimeList/static/js/2.b8144d84.chunk.js"
+    "revision": "fbac2a5e4486e55020e3",
+    "url": "/Amine-Hmi/MyAnimeList/static/js/2.c9111b32.chunk.js"
   },
   {
     "revision": "2d8328393d82966fa42f594b317ea365",
-    "url": "/Amine-Hmi/MyAnimeList/static/js/2.b8144d84.chunk.js.LICENSE.txt"
+    "url": "/Amine-Hmi/MyAnimeList/static/js/2.c9111b32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4dfe99a610d34d5b0149",
-    "url": "/Amine-Hmi/MyAnimeList/static/js/main.546af488.chunk.js"
+    "revision": "4c368b7f389509a6f779",
+    "url": "/Amine-Hmi/MyAnimeList/static/js/main.3d50b168.chunk.js"
   },
   {
     "revision": "8130e5f5df6a7d7969e6",

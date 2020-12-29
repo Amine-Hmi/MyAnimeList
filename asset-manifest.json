@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Amine-Hmi/MyAnimeList/static/css/main.2ac089f9.chunk.css",
-    "main.js": "/Amine-Hmi/MyAnimeList/static/js/main.546af488.chunk.js",
-    "main.js.map": "/Amine-Hmi/MyAnimeList/static/js/main.546af488.chunk.js.map",
+    "main.js": "/Amine-Hmi/MyAnimeList/static/js/main.3d50b168.chunk.js",
+    "main.js.map": "/Amine-Hmi/MyAnimeList/static/js/main.3d50b168.chunk.js.map",
     "runtime-main.js": "/Amine-Hmi/MyAnimeList/static/js/runtime-main.23aba189.js",
     "runtime-main.js.map": "/Amine-Hmi/MyAnimeList/static/js/runtime-main.23aba189.js.map",
-    "static/js/2.b8144d84.chunk.js": "/Amine-Hmi/MyAnimeList/static/js/2.b8144d84.chunk.js",
-    "static/js/2.b8144d84.chunk.js.map": "/Amine-Hmi/MyAnimeList/static/js/2.b8144d84.chunk.js.map",
+    "static/js/2.c9111b32.chunk.js": "/Amine-Hmi/MyAnimeList/static/js/2.c9111b32.chunk.js",
+    "static/js/2.c9111b32.chunk.js.map": "/Amine-Hmi/MyAnimeList/static/js/2.c9111b32.chunk.js.map",
     "index.html": "/Amine-Hmi/MyAnimeList/index.html",
-    "precache-manifest.d68e5ae41fe192363e7f65ea2da0720c.js": "/Amine-Hmi/MyAnimeList/precache-manifest.d68e5ae41fe192363e7f65ea2da0720c.js",
+    "precache-manifest.034df905cbea9adf77d7efd4b9ee957d.js": "/Amine-Hmi/MyAnimeList/precache-manifest.034df905cbea9adf77d7efd4b9ee957d.js",
     "service-worker.js": "/Amine-Hmi/MyAnimeList/service-worker.js",
     "static/css/main.2ac089f9.chunk.css.map": "/Amine-Hmi/MyAnimeList/static/css/main.2ac089f9.chunk.css.map",
-    "static/js/2.b8144d84.chunk.js.LICENSE.txt": "/Amine-Hmi/MyAnimeList/static/js/2.b8144d84.chunk.js.LICENSE.txt",
+    "static/js/2.c9111b32.chunk.js.LICENSE.txt": "/Amine-Hmi/MyAnimeList/static/js/2.c9111b32.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Amine-Hmi/MyAnimeList/static/media/bg.fffa31e7.jpg",
     "static/media/default_cover.png": "/Amine-Hmi/MyAnimeList/static/media/default_cover.22e5f56b.png",
     "static/media/logo.png": "/Amine-Hmi/MyAnimeList/static/media/logo.2fd48a92.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.23aba189.js",
-    "static/js/2.b8144d84.chunk.js",
+    "static/js/2.c9111b32.chunk.js",
     "static/css/main.2ac089f9.chunk.css",
-    "static/js/main.546af488.chunk.js"
+    "static/js/main.3d50b168.chunk.js"
   ]
 }
