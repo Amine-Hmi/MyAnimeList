@@ -1,0 +1,14 @@
+.About-wrapper {
+    height: 100vh;
+}
+
+.About-wrapper p {
+    margin: 20px auto;
+    padding: 5px 20px;
+    text-align: justify;
+    width: 50%;
+    background-color: rgba(5, 5, 5, 0.329);
+    border-radius: 20px;
+    color: darkgrey;
+}
+

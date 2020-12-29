@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  font-family: Asap,sans-serif;
+  }
+
+  h1,h2,h3,h4,h5{ color: #464646; }
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 100%;
+  background-image: url("../src/components/bg.jpg");
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.spinner-wrap{
+    position: absolute;
+    top: calc(50% - 207.25px/2);
+    left: calc(50% - 181px/2);
+    z-index: 5;}
+.search {
+  margin-top: 45px;
+  width: 100%;
+  background: rgb(0,0,0);
+  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%);
+  }
+.search-control {
+  margin: 6px;
+}
+
+.Poster {
+  width: 300px;
+  height: 400px;
+}
+
+.description {
+  font-size: 0.75rem;
+  font-weight: normal;
+}
+
+/* .Synopsis {
+  position: absolute;
+  bottom: 0;
+  color:white;
+  background-color: rgba(5,5,5,0.7);
+  font-size: 0.8rem;
+  opacity: 0;
+  max-width: 280px;}
+
+.Synopsis:hover {
+  opacity: 1;
+  transition: all 0.5s ease-in-out;
+} */
+
+
+.myFooter {
+width: 100%;
+margin-top:10px;
+padding-bottom: 10px;
+bottom: 0;
+
+}
+.credits {
+border-radius: 5px;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: inset 7px 6px 13px 8px #f7ffe9db;
+    padding-bottom: 4px ;
+    font-weight: bold;
+}
+
+.credits a {
+  color: blue;
+  text-decoration: underline;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
