@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/amine-hmi.github.io/MyAnimeList/static/css/main.204f8d4b.chunk.css",
-    "main.js": "/amine-hmi.github.io/MyAnimeList/static/js/main.ab0449ce.chunk.js",
-    "main.js.map": "/amine-hmi.github.io/MyAnimeList/static/js/main.ab0449ce.chunk.js.map",
+    "main.css": "/amine-hmi.github.io/MyAnimeList/static/css/main.f6d316e7.chunk.css",
+    "main.js": "/amine-hmi.github.io/MyAnimeList/static/js/main.37498c3c.chunk.js",
+    "main.js.map": "/amine-hmi.github.io/MyAnimeList/static/js/main.37498c3c.chunk.js.map",
     "runtime-main.js": "/amine-hmi.github.io/MyAnimeList/static/js/runtime-main.61f72201.js",
     "runtime-main.js.map": "/amine-hmi.github.io/MyAnimeList/static/js/runtime-main.61f72201.js.map",
-    "static/js/2.c9111b32.chunk.js": "/amine-hmi.github.io/MyAnimeList/static/js/2.c9111b32.chunk.js",
-    "static/js/2.c9111b32.chunk.js.map": "/amine-hmi.github.io/MyAnimeList/static/js/2.c9111b32.chunk.js.map",
+    "static/js/2.edba4836.chunk.js": "/amine-hmi.github.io/MyAnimeList/static/js/2.edba4836.chunk.js",
+    "static/js/2.edba4836.chunk.js.map": "/amine-hmi.github.io/MyAnimeList/static/js/2.edba4836.chunk.js.map",
     "index.html": "/amine-hmi.github.io/MyAnimeList/index.html",
-    "precache-manifest.6b93ad0498bb28a11a01c07bd968c50d.js": "/amine-hmi.github.io/MyAnimeList/precache-manifest.6b93ad0498bb28a11a01c07bd968c50d.js",
+    "precache-manifest.73598419cee133d9212f9d4af39b2738.js": "/amine-hmi.github.io/MyAnimeList/precache-manifest.73598419cee133d9212f9d4af39b2738.js",
     "service-worker.js": "/amine-hmi.github.io/MyAnimeList/service-worker.js",
-    "static/css/main.204f8d4b.chunk.css.map": "/amine-hmi.github.io/MyAnimeList/static/css/main.204f8d4b.chunk.css.map",
-    "static/js/2.c9111b32.chunk.js.LICENSE.txt": "/amine-hmi.github.io/MyAnimeList/static/js/2.c9111b32.chunk.js.LICENSE.txt",
+    "static/css/main.f6d316e7.chunk.css.map": "/amine-hmi.github.io/MyAnimeList/static/css/main.f6d316e7.chunk.css.map",
+    "static/js/2.edba4836.chunk.js.LICENSE.txt": "/amine-hmi.github.io/MyAnimeList/static/js/2.edba4836.chunk.js.LICENSE.txt",
     "static/media/App.css": "/amine-hmi.github.io/MyAnimeList/static/media/bg.fffa31e7.jpg",
     "static/media/default_cover.png": "/amine-hmi.github.io/MyAnimeList/static/media/default_cover.22e5f56b.png",
     "static/media/logo.png": "/amine-hmi.github.io/MyAnimeList/static/media/logo.2fd48a92.png",
     "static/media/missing.jpg": "/amine-hmi.github.io/MyAnimeList/static/media/missing.e599c875.jpg",
+    "static/media/notfound.png": "/amine-hmi.github.io/MyAnimeList/static/media/notfound.9a27f6a5.png",
     "static/media/spinner3.gif": "/amine-hmi.github.io/MyAnimeList/static/media/spinner3.cf806952.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.61f72201.js",
-    "static/js/2.c9111b32.chunk.js",
-    "static/css/main.204f8d4b.chunk.css",
-    "static/js/main.ab0449ce.chunk.js"
+    "static/js/2.edba4836.chunk.js",
+    "static/css/main.f6d316e7.chunk.css",
+    "static/js/main.37498c3c.chunk.js"
   ]
 }
