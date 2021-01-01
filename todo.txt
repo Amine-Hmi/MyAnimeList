@@ -1,0 +1,65 @@
+back button done
+categories titles 
+fetch all categories item
+
+Addded keywords sorting
+addes keywords rainbow coloring
+Pages number 42/125
+Add season formatting
+Load more renders before HasMore state
+Fix logo size done
+
+disable opening characters/saga/episodes pages in a new tab because movie id won't be passed to next page
+saga title done
+category height
+street fighter round one fight no chars no episodes no saga
+dont display paginatio if pages number=1
+check all images.original
+tooltip font size
+fix grid overflowing when downsizing window
+
+Quick setup — if you’ve done this kind of thing before
+or	
+https://github.com/Amine-Hmi/MyAnimeList.git
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+
+…or create a new repository on the command line
+echo "# MyAnimeList" >> README.md
+
+npm run build
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Amine-Hmi/MyAnimeList.git
+git push -u origin main
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/Amine-Hmi/MyAnimeList.git
+git branch -M main
+git push -u origin main
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+npm  add gh-pages & save as dep in package.json and add npm predeploy and deploy script
+npm run build
+git init
+git add - A
+git commit -m "project files added"
+git remote add origin https://github.com/Amine-Hmi/MyAnimeList.git
+git push -u origin master
+npm run deploy
+add gh-pages branch 
+npm run deploy  
+
+stacey perkins stacey nash
+
+
+const animeProductions = data.relationships.animeProductions.data [type(animeproductions),id(38)]
+const animeProductionsId =  data.included.producer.data.id (8)
+data.included.producer.data.type (producer)
+data.included.producer.attributes.role (studio)
+
+producer.attributes.name
+

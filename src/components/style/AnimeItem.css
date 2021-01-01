@@ -1,0 +1,123 @@
+
+    
+    .Front {
+      background: rgb(0,0,0);
+      background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%);
+      
+      }
+    
+    .Card:hover  {
+      transform: rotateY(180deg);
+    }
+    
+    .Card {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      transition: transform 0.6s;
+      transform-style: preserve-3d;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+
+    .Card:hover {
+      cursor: pointer;
+    }
+    
+    .Front, .Back {
+      position: absolute;
+      /* display: flex;
+      flex-direction: column;
+      justify-content: center; */
+      width: 100%;
+      height: 100%;
+      -webkit-backface-visibility: hidden; /* Safari */
+      backface-visibility: hidden;
+      border-radius: 15px;
+      overflow: hidden;
+    }
+    
+    
+    /* Style the front side (fallback if image is missing) */
+    .Front {
+      background-color: #bbb;
+      color: black;
+      
+    }
+    
+    /* Style the back side */
+    .Back {
+      background: rgb(255, 255, 255);
+      /* background: linear-gradient(180deg, rgb(27, 4, 71) 60%, rgba(55,143,255,0) 100%); */
+      background: linear-gradient(180deg, #402F3F 60%, rgba(55,143,255,0.8) 100%);
+      color: rgba(255, 255, 255, 1);
+      transform: rotateY(180deg);
+      text-align: center;
+      font-size: 0.8rem;
+      line-height: 2rem;
+      display: flex;
+      flex-direction: column;
+      padding: 5px;
+      align-items: center;  
+    }
+
+    .Back h3 {
+        color: white;
+    }
+    .title-link
+    {
+      margin-top:10px ;
+      text-decoration: none;
+      color: #f15900;
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      background: #130927b5;
+      border-radius: 5px;
+      padding: 0px 5px;
+      box-shadow: 2px 2px 4px black;
+      font-weight: bold;
+    }
+    
+    .Title {
+      position: absolute;
+      justify-content: center;
+      align-items: center;
+      color: wheat;
+      text-shadow: 4px 2px 4px #000;
+      font-size: 1.2rem;
+      top:0;
+      left:25px;
+      right:0;
+      width: 80%;
+      text-transform: capitalize;
+      background: linear-gradient(180deg, rgb(76 26 67) 10%, rgb(191 57 133 / 70%) 50%);
+      border-radius: 5px;
+      padding: 5px 10px;
+      box-shadow: inset 9px -2px 9px 0px rgb(29 25 25), inset -12px 2px 20px 0px rgb(56 40 40);
+      transform: translateY(10px);
+    }
+    .Rates {
+      display: flex;
+    justify-content: space-between;
+    }
+    .avg {
+      font-weight: bold;
+    }
+     .pop {
+      color: rgb(255, 255, 255);
+      font-weight: normal;
+      display: flex ;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+    
+    }
+    
+    .Rates .rate {
+      font-size: 1rem;
+      color: rgb(255, 255, 255);
+      font-weight: normal;
+    }
+    
+    
