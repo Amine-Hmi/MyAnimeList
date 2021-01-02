@@ -9,6 +9,7 @@ Homepage<br/>
 <img src="https://user-images.githubusercontent.com/66182798/103448381-3b16f680-4c99-11eb-82d6-e26d9a28099e.png" width="30%"></img>
 <img src="https://user-images.githubusercontent.com/66182798/103448366-01de8680-4c99-11eb-9684-7edbccb40a15.png" width="30%"></img> 
 # FEATURES YET TO BE IMPLEMENTED
-  ** Responsive design
-  ** Fetch anime production information in the anime details page
-  ** Sort anime titles alphabetically in the anime details page
+  * - Responsive design
+  * - Fetch anime production information in the anime details page
+  * - Sort anime titles alphabetically in the anime details page
+  * - Add episode informations pages
