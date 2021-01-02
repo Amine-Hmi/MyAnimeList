@@ -1,6 +1,6 @@
 <p align="center">  <img src="https://avatars1.githubusercontent.com/u/7648832?s=50&v=4"/>
 
-  <h1 align="center">MyAnimeList (A kistu.io clone)</h1>
+  <h1 align="center">MyAnimeList (A kistu.io clone :fox_face:)</h1>
 </p>
 ---
 
