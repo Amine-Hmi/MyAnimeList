@@ -1,5 +1,12 @@
 ![Kitsu logo](https://avatars1.githubusercontent.com/u/7648832?s=100&v=4)
-### Live Demo [Here](https://amine-hmi.github.io/MyAnimeList/)
+---
+
+## :computer: Live Demo ##
+<!-- See it in action at :point_right: [Here] :point_left: -->
+See how it look & feel at :point_right: [CV](https://amine-hmi.github.io/MyAnimeList/) :point_left:
+
+---
+
 Quickly find information on anime you're watching, read reviews of titles you're planning to start, or get recommendations for similar anime from fans who enjoyed a series as much as you. Use our seasonal anime page to see the best of what's airing now, or marathon the highest rated anime from previous seasons.
 
 
