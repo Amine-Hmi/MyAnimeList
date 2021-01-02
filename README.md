@@ -6,7 +6,7 @@
 
 ## :computer: Live Demo ##
 <!-- See it in action at :point_right: [Here] :point_left: -->
-See how it look & feel at :point_right: [CV](https://amine-hmi.github.io/MyAnimeList/) :point_left:
+See how it look & feel at :point_right: [Here](https://amine-hmi.github.io/MyAnimeList/) :point_left:
 
 ---
 
