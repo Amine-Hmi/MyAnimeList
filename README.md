@@ -1,4 +1,4 @@
-![Kitsu logo](https://avatars1.githubusercontent.com/u/7648832?s=100&v=4)
+# MyAnimeList ![Kitsu logo](https://avatars1.githubusercontent.com/u/7648832?s=100&v=4) 
 ---
 
 ## :computer: Live Demo ##
@@ -27,7 +27,7 @@ Quickly find information on anime you're watching, read reviews of titles you're
 #### Get detailed informations about your favorite Anime (Part 2/2)
 <img src="https://user-images.githubusercontent.com/66182798/103448366-01de8680-4c99-11eb-9684-7edbccb40a15.png" width="30%"></img> 
 
-# FEATURES YET TO BE IMPLEMENTED
+## :pushpin: FEATURES YET TO BE IMPLEMENTED ##
   * [ ]  Responsive design
   * [ ]  Fetch anime production information in the anime details page
   * [ ]  Sort anime titles alphabetically in the anime details page
