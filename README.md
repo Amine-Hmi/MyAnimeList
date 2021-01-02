@@ -8,3 +8,6 @@ Homepage<br/>
 <img src="https://user-images.githubusercontent.com/66182798/103448363-fd19d280-4c98-11eb-8fdb-6734c0875c32.png" width="30%"></img>
 <img src="https://user-images.githubusercontent.com/66182798/103448381-3b16f680-4c99-11eb-82d6-e26d9a28099e.png" width="30%"></img>
 <img src="https://user-images.githubusercontent.com/66182798/103448366-01de8680-4c99-11eb-9684-7edbccb40a15.png" width="30%"></img> 
+# FEATURES YET TO BE IMPLEMENTED
+  * Feature 1
+  * Feature 2
