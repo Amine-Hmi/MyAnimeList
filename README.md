@@ -1,5 +1,7 @@
-# MyAnimeList #
-![Kitsu logo](https://avatars1.githubusercontent.com/u/7648832?s=100&v=4)
+<p align="center">  <img src="https://avatars1.githubusercontent.com/u/7648832?s=50&v=4"/>
+
+  <h1 align="center">MyAnimeList (A kistu.io clone)</h1>
+</p>
 ---
 
 ## :computer: Live Demo ##
