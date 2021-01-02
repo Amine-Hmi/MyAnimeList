@@ -3,7 +3,7 @@
 Quickly find information on anime you're watching, read reviews of titles you're planning to start, or get recommendations for similar anime from fans who enjoyed a series as much as you. Use our seasonal anime page to see the best of what's airing now, or marathon the highest rated anime from previous seasons.
 
 
- #### Homepage
+ #### Homepage 
 <img src="https://user-images.githubusercontent.com/66182798/103448271-76182a80-4c97-11eb-94aa-4ee081c0d228.png" width="30%"></img>
 #### Discover Animes by genre
 <img src="https://user-images.githubusercontent.com/66182798/103448358-ea9f9900-4c98-11eb-833a-67b0031c561b.png" width="30%"></img>
