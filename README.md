@@ -1,4 +1,5 @@
-# MyAnimeList ![Kitsu logo](https://avatars1.githubusercontent.com/u/7648832?s=100&v=4) 
+# MyAnimeList #
+![Kitsu logo](https://avatars1.githubusercontent.com/u/7648832?s=100&v=4)
 ---
 
 ## :computer: Live Demo ##
